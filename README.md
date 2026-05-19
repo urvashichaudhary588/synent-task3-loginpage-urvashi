@@ -23,14 +23,14 @@ The objective of this project is to create a properly aligned and responsive log
 - Clean and Modern UI
 - Responsive Layout
 
----
 # 📂 Project Structure
 
+```text
 synent-task3-loginpage-urvashi
 │
 ├── index.html
 ├── style.css
-
+└── README.md
 
 # 🛠 Technologies Used
 
