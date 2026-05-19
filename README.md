@@ -42,10 +42,10 @@ synent-task3-loginpage-urvashi
 └── README.md
 
 
-🔗 GitHub Repository
+#🔗 GitHub Repository
 
 Repository Link: https://github.com/urvashichaudhary588/synent-task3-loginpage-urvashi.git
 
-📹 Demo Video
+#📹 Demo Video
 
 Demo Video Link: Coming Soon
