@@ -22,13 +22,6 @@ The objective of this project is to create a properly aligned and responsive log
 - HTML5
 - CSS3
 
- # 📂 Project Structure
-synent-task3-loginpage-urvashi
-│
-├── index.html
-├── style.css
-└── README.md
-
 #🔗 GitHub Repository
 
 Repository Link: https://github.com/urvashichaudhary588/synent-task3-loginpage-urvashi.git
@@ -36,3 +29,11 @@ Repository Link: https://github.com/urvashichaudhary588/synent-task3-loginpage-u
 #📹 Demo Video
 
 Demo Video Link: Coming Soon
+
+# 📂 Project Structure
+
+synent-task3-loginpage-urvashi
+│
+├── index.html
+├── style.css
+└── README.md
