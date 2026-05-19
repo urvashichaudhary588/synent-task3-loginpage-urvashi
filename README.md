@@ -1,11 +1,14 @@
 # synent-task3-loginpage-urvashi
 A clean and modern Login Page UI designed using HTML, CSS, and JavaScript with responsive layout and user-friendly interface.
+
 ---
 # 🔐 Login Page UI
 A clean and modern Login Page UI designed using HTML and CSS as part of the Synent Technologies Web Development Internship Program.
+
 ---
 # 📌 Project Objective
 The objective of this project is to create a properly aligned and responsive login interface with a modern user interface design.
+
 ---
 # 🚀 Features
 - Email Input Field
@@ -29,6 +32,7 @@ Repository Link: https://github.com/urvashichaudhary588/synent-task3-loginpage-u
 #📹 Demo Video
 
 Demo Video Link: Coming Soon
+
 ---
 # 📂 Project Structure
 ```text
@@ -37,3 +41,4 @@ synent-task3-loginpage-urvashi
 ├── index.html
 ├── style.css
 └── README.md
+---
