@@ -24,6 +24,13 @@ The objective of this project is to create a properly aligned and responsive log
 - Responsive Layout
 
 ---
+# 📂 Project Structure
+
+synent-task3-loginpage-urvashi
+│
+├── index.html
+├── style.css
+
 
 # 🛠 Technologies Used
 
